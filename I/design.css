@@ -1,0 +1,35 @@
+nav a, span {
+position: sticky;
+font-family: 'roboto slab' ;font-size: 22px;
+
+}
+.w3-hide-small {
+    font-family: 'roboto slab' ;font-size: 22px;
+
+   }
+   #image {
+    justify-content: center;
+   }
+   body, h1,h2,p,a * {
+       font-family: 'Roboto Slab';font-size: 22px;
+       color: rgb(255, 255, 255);
+   }
+   
+   .w3-allerta {
+    font-family: "roboto", Sans-serif;
+  }
+#aa {
+    font-family: 'Roboto Slab';font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#ww {
+    font-family: 'Roboto Slab';font-size: 22px;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+}
+#e {
+    color: rgb(187, 0, 0);
+}

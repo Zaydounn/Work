@@ -1,0 +1,15 @@
+html,body{
+   
+    
+    margin: 0cm;
+    padding: 0cm;
+    width: 100%;
+
+}
+body{
+    font-family: 'roboto';
+    font-size: 22px;
+}
+#p.w3-xlarge{
+  position: center;
+}
